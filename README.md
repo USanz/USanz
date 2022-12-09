@@ -6,7 +6,7 @@
 - 👀 I’m interested in Robotics, Sofware and everything related to space or any kind of science.
 - 🌱 I’m currently learning software robotics, I'm getting my driver's license, and I'm improving my English level.
 - 💞️ I’m looking to collaborate on robotics projects in european companies or even in other countries (🤫 I also love traveling around the world)
-- 📌 I'm living in Madrid, Spain right now.
+- 📌 I'm living in Madrid, Spain 🇪🇸 right now, but I also have been to 🇫🇷 🇮🇹 🇬🇧 🇬🇷 🇲🇹 🇵🇹 🇻🇦. 🇪🇺
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=USanz&count_private=true&theme=radical&show_icons=true" alt="USanz" /></p>
