@@ -6,7 +6,7 @@
 - 👀 I’m interested in Robotics, Sofware and everything related to space or any kind of science.
 - 🌱 I’m currently learning software robotics, I'm getting my driver's license, and I'm improving my English level.
 - 💞️ I’m looking to collaborate on robotics projects in european companies or even in other countries (🤫 I also love traveling around the world).
-- 📌 I'm living in Paris, France 🇫🇷 🇪🇺 right now, but I'm from Madrid, Spain 🇪🇸 and I've also been to 🇮🇹 🇬🇧 🇬🇷 🇲🇹 🇵🇹 🇻🇦.
+- 📌 I'm living near Paris, France 🇫🇷 🇪🇺 right now, but I'm from Madrid, Spain 🇪🇸 and I've also been to 🇮🇹 🇬🇧 🇬🇷 🇲🇹 🇵🇹 🇻🇦.
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=USanz&count_private=true&theme=radical&show_icons=true" alt="USanz" />
@@ -21,8 +21,11 @@
 I'm currently working on getting the necessary knowledge to be a professional on Software Robotics,
 now there is no much here, but here there are some of the most important projects that we have been carried out these years during the grade:
 
- - <a href="https://github.com/USanz/Mecatronica-Proyecto" target="_blank" rel="noreferrer"> <img src="https://github.com/USanz/Mecatronica-Proyecto/raw/main/doc/RoBall_logo.gif" alt="RoBall" align="center" width="70" height="50"/> </a> (2022) [RoBall mechatronics project](https://github.com/USanz/Mecatronica-Proyecto) in colaboration with [@jorgerando](https://github.com/jorgerando) and [@javi-dbgr](https://github.com/javi-dbgr).
- - (2022) [Planning with plansys2 for cognitive systems in robotics project](https://github.com/USanz/plansys2-hospital-l4ros2) in colaboration with [@amglega](https://github.com/Amglega), [@ivrolan](https://github.com/ivrolan) and [@javi-dgbr](https://github.com/javi-dbgr).
+ - <a href="https://github.com/USanz/Mecatronica-Proyecto" target="_blank" rel="noreferrer"> <img src="https://github.com/USanz/Mecatronica-Proyecto/raw/main/doc/RoBall_logo.gif" alt="RoBall" align="center" width="70" height="50"/> </a> (2022) [RoBall mechatronics project](https://github.com/USanz/Mecatronica-Proyecto) hand to hand with [@jorgerando](https://github.com/jorgerando) and [@javi-dbgr](https://github.com/javi-dbgr).
+
+ - <a href="https://github.com/USanz/plansys2-hospital-l4ros2" target="_blank" rel="noreferrer"> <img src="https://github.com/USanz/plansys2-hospital-l4ros2/blob/main/imgs/hospital_map_scheme.png" alt="Planning" align="center" width="70" height="50"/> </a> (2022) [Planning with plansys2 for cognitive systems in robotics project](https://github.com/USanz/plansys2-hospital-l4ros2) hand to hand with [@amglega](https://github.com/Amglega), [@ivrolan](https://github.com/ivrolan) and [@javi-dgbr](https://github.com/javi-dbgr).
+
+
 
 #### See more about my projects here: <a href="https://usanzunibotics.blogspot.com/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="https://usanzunibotics.blogspot.com/" height="40" width="40" align="center"/> </a> <a href="https://www.youtube.com/channel/UC1D07TJnG0D38FQM8y38kMQ/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UC1D07TJnG0D38FQM8y38kMQ/" height="40" width="40" align="center"/> </a>
 
