@@ -21,6 +21,10 @@
 I'm currently working on getting the necessary knowledge to be a professional on Software Robotics,
 now there is no much here, but here there are some of the most important projects that we have been carried out these years during the grade:
 
+ - <a href="https://github.com/USanz/follow_beacon" target="_blank" rel="noreferrer"> <img src="https://github.com/USanz/follow_beacon/blob/master/doc/qr_code.png" alt="QR code follower" align="center" width="70" height="70"/> </a> (2023) [QR code follower using zenoh and zenoh-flow](https://github.com/USanz/follow_beacon), internship abroad project (🚧 Still work in progress 🚧).
+ 
+ - <a href="https://github.com/RoboticsURJC/tfg-unai" target="_blank" rel="noreferrer"> <img src="https://github.com/RoboticsURJC/tfg-unai/blob/main/doc/pibot_3D_model_render.png" alt="Guide robot navigation" align="center" width="70" height="50"/> </a> (2022 - 2023) [Guide robot navigation](https://github.com/RoboticsURJC/tfg-unai), final degree project (🚧 Still work in progress 🚧).
+ 
  - <a href="https://github.com/USanz/Mecatronica-Proyecto" target="_blank" rel="noreferrer"> <img src="https://github.com/USanz/Mecatronica-Proyecto/raw/main/doc/RoBall_logo.gif" alt="RoBall" align="center" width="70" height="50"/> </a> (2022) [RoBall mechatronics project](https://github.com/USanz/Mecatronica-Proyecto) hand to hand with [@jorgerando](https://github.com/jorgerando) and [@javi-dbgr](https://github.com/javi-dbgr).
 
  - <a href="https://github.com/USanz/plansys2-hospital-l4ros2" target="_blank" rel="noreferrer"> <img src="https://github.com/USanz/plansys2-hospital-l4ros2/blob/main/imgs/hospital_map_scheme.png" alt="Planning" align="center" width="70" height="50"/> </a> (2022) [Planning with plansys2 for cognitive systems in robotics project](https://github.com/USanz/plansys2-hospital-l4ros2) hand to hand with [@amglega](https://github.com/Amglega), [@ivrolan](https://github.com/ivrolan) and [@javi-dgbr](https://github.com/javi-dbgr).
@@ -60,8 +64,10 @@ AIMING TO | <a href="https://developer.android.com" target="_blank" rel="norefer
 
 ### Current Goals.
 
- - Finish the grade and get a job.
- - Improve my English level.
+ - Finish the internship abroad and final degree project of the grade.
+ - Take the english level test.
+ - Get my driving license.
+ - Course maybe a master or another engineering degree like aerospace engineering in aerospace vehicles in english.
 
 ### 📫 Contact me:
 
