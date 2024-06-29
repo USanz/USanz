@@ -2,7 +2,7 @@
  Hi 👋, I’m Unai Sanz
 </h1>
 
-- 🎓 I'm a Software Robotics Engineering (Rey Juan Carlos University). Currently, I'm pursuing a Masters degree on Science and Technology from Space (Alcalá de Henares University).
+- 🎓 I'm a Software Robotics Engineer (Rey Juan Carlos University). Currently, I'm pursuing a Masters degree on Science and Technology from Space (Alcalá de Henares University).
    - I did an internship in Paris 🇫🇷, at [ZettaScale Technology](https://www.zettascale.tech/), where I worked on integrating data-flow programing with [ROS2](https://design.ros2.org/) using [Zenoh-flow](https://zenoh.io/blog/2023-02-10-zenoh-flow/) and developed two robotics applications: "[QR code follower](https://github.com/USanz/follow_beacon)" and "[Robot swarm object finder](https://github.com/USanz/swarm_obj_finder)".
    - My bachelor's thesis, which was nominated for honors, was also based on this topic. It demonstrated the feasibility of integrating data-flows with [ROS2](https://design.ros2.org/) in multiple robots applied to education. This project achieved, among other objectives, a reduction in the educational gap between the university and pre-university phases.
 - 👀 My interests include robotics, space exploratione and rocketry, maths, physics and any other science.
